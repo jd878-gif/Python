@@ -34,7 +34,7 @@ Prerequisites
 Python 3.x
 
 # Navigate to the project directory
-cd library-management-system
+cd downloads library_application
 Running the Project
 bashpython library.py
 
