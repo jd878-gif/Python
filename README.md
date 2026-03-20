@@ -31,10 +31,6 @@ Prerequisites
 
 Python 3.x
 
-Installation
-bash# Clone the repository
-git clone https://github.com/your-username/library-management-system.git
-
 # Navigate to the project directory
 cd library-management-system
 Running the Project
