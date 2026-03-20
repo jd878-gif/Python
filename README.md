@@ -5,7 +5,9 @@ A simple console-based Library Management System built in Python that manages tw
 
 📌 Features
 The system supports the following operations on both Books and Members:
-OperationDescription🔍 SearchLook up a book or member by their unique ID➕ InsertAdd a new book or member to the system❌ DeleteRemove an existing book or member from the system
+OperationDescription🔍 Search: Look up a book or member by their unique ID
+                    ➕ Insert: Add a new book or member to the system 
+                    ❌ Delete: Remove an existing book or member from the system
 
 🗂️ Entities
 📖 Book
