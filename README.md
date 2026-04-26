@@ -1,10 +1,10 @@
-# 📚 Library Management System
+# Library Management System
 
-## 🔍 Overview
+## Overview
 A complete Library Management System built from scratch showing 
 full progression from basic Python to production-ready application.
 
-## 🚀 Project Evolution
+## Project Evolution
 | Stage | Technology | Description |
 |-------|-----------|-------------|
 | 1 | Python Functions | Basic library operations |
@@ -17,7 +17,7 @@ full progression from basic Python to production-ready application.
 | 8 | Docker | Containerized entire application |
 | 9 | Apache Airflow | Automated ETL pipeline scheduling |
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language:** Python 3
 - **API Framework:** Flask
 - **Database:** MySQL, SQLite
@@ -28,7 +28,7 @@ full progression from basic Python to production-ready application.
 - **Version Control:** Git
 - **Workflow Orchestration:** Apache Airflow
 
-## 📁 Project Structure
+## Project Structure
 library_management_system/
 ├── airflow/
 │   ├── dags/
@@ -51,7 +51,7 @@ library_management_system/
 ├── requirements.txt
 └── README.md
 
-## 🔗 API Endpoints
+## API Endpoints
 | Method | Endpoint | Description |
 |--------|----------|-------------|
 | GET | /books | Get all books |
@@ -67,13 +67,13 @@ library_management_system/
 | POST | /members | Insert member |
 | DELETE | /members/\<member_id\> | Delete member |
 
-## 📊 Data Analysis
+## Data Analysis
 - Books borrowed vs available
 - Books by publisher and author
 - Member borrowing patterns
 - Borrowing rate percentage
 
-## 🐳 Docker Setup
+## Docker Setup
 Run the entire application with a single command!
 
 ### Prerequisites
@@ -90,7 +90,7 @@ This automatically starts both Flask API and MySQL in containers!
 docker-compose down
 ```
 
-## ⚙️ How to Run
+## How to Run
 
 ### Option 1 — Docker (Recommended)
 ```bash
